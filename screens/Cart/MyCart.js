@@ -260,7 +260,7 @@ const MyCart = ({ navigation, cartItems, removeItem }) => {
                 disable={isEnableplaceorder() ? true : false}
                 onPress={() => {
                     removeItem(myCartList)
-                    navigation.navigate("MyCard", { total: 0 })
+                    navigation.navigate("MyCard", { total: total })
                 }}
 
             />
