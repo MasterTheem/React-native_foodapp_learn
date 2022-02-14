@@ -3,6 +3,8 @@ it's learn by myself, download apk: https://www.mediafire.com/file/l62nkvbx44nii
 
 This application was developed by React-native .This app will focus on the design to look usable. 
 
+sign in pass : email: admin@admin.com password: admin 
+
 Features available in the app
 
 - Onboarding Screen The first time entering the app will be shown on this page
